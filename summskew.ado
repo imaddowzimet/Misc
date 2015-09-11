@@ -1,4 +1,3 @@
-program drop summskew                   
 program define summskew                 
 version 14  
 
