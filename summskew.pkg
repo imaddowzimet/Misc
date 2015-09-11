@@ -1,0 +1,5 @@
+v 3
+d summskew
+d Program to calculate skew, standard error of skew, and skew ratio
+d Distribution-Date: 9 10 15
+f summskew.ado
