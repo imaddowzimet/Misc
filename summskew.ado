@@ -1,5 +1,5 @@
-capture program drop mysummskew
-program define mysummskew                 
+capture program drop summskew
+program define summskew                 
 
 syntax varname, by(varname)             
 
