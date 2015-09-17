@@ -1,6 +1,5 @@
-program drop mysummskew
+capture program drop mysummskew
 program define mysummskew                 
-version 14  
 
 syntax varname, by(varname)             
 
@@ -25,5 +24,5 @@ display "For `by' = " `i' ": skewness = " skew "; seskew = " seskew " ; skewness
 display ""                        
 }
 end
-
+exit
 
