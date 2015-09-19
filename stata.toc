@@ -1,3 +1,4 @@
 v 3
-d Program to calculate skew, standard error of skew, and skew ratio
+d Programs to calculate skew, standard error of skew, and skew ratio
 p summskew [The summskew.ado program]
+p skewanova [The skewanova.ado program]
