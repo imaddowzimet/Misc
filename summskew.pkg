@@ -2,5 +2,5 @@ v 3
 d summskew
 d Program to calculate skew, standard error of skew, and skew ratio
 d Author: Sharon L. Weinberg
-d Distribution-Date: 9 10 15
+d Distribution-Date: 20150919
 f summskew.ado
