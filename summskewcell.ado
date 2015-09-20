@@ -1,8 +1,8 @@
-capture program drop skewanova
-program define skewanova                 
+capture program drop summskewcell
+program define summskewcell                
 
 syntax varlist(min=3 max=3)
-
+qui {
 local var1: word 1 of `varlist'
 local var2: word 2 of `varlist'
 local var3: word 3 of `varlist'
@@ -25,10 +25,10 @@ gen n = r(N)
 gen skew  = r(skewness)
 gen seskew  = sqrt((6*(n)*(n - 1))/((n - 2)*(n + 1)*(n + 3)))
 gen skew_ratio = skew/seskew
-display "For `var2' = " `i' " and `var3' = " `j' ": N = " n "; skewness = " skew "; seskew = " seskew " ; skewness ratio = " skew_ratio
+noi display "For `var2' = " `i' " and `var3' = " `j' ": N = " n "; skewness = " skew "; seskew = " seskew " ; skewness ratio = " skew_ratio
 }
 }
-
+}
 
 
 end
