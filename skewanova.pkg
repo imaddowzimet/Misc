@@ -1,6 +1,0 @@
-v 3
-d skewanova
-d Program to calculate skew, standard error of skew, and skew ratio for two-way ANOVA
-d Author: Sharon L. Weinberg
-d Distribution-Date: 20150919
-f skewanova.ado

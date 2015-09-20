@@ -1,0 +1,6 @@
+v 3
+d summskewcell
+d Program to calculate skew, standard error of skew, and skew ratio for continuous var across 2 categorical vars
+d Author: Sharon L. Weinberg
+d Distribution-Date: 20150919
+f summskewcell.ado
