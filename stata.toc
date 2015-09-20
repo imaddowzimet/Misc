@@ -1,4 +1,4 @@
 v 3
 d Programs to calculate skew, standard error of skew, and skew ratio
 p summskew [The summskew.ado program]
-p skewanova [The skewanova.ado program]
+p summskewcell [The summskewcell.ado program]
