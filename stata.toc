@@ -1,4 +1,5 @@
 v 3
-d Programs to calculate skew, standard error of skew, and skew ratio
+d Programs to calculate skew, standard error of skew, skew ratio, and distance between two points (lat and long)
 p summskew [The summskew.ado program]
 p summskewcell [The summskewcell.ado program]
+p calcdist [The calcdist.ado program]
