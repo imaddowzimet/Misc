@@ -1,0 +1,6 @@
+v 3
+d calcdist
+d Program to calculate distance given longitude and latitude
+d Author: IMZ
+d Distribution-Date: 20151209
+f calcdist.ado
