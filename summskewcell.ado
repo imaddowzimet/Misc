@@ -25,7 +25,7 @@ gen n = r(N)
 gen skew  = r(skewness)
 gen seskew  = sqrt((6*(n)*(n - 1))/((n - 2)*(n + 1)*(n + 3)))
 gen skew_ratio = skew/seskew
-noi display "For `var2' = " `i' " and `var3' = " `j' ": N = " n "; skewness = " skew "; seskew = " seskew " ; skewness ratio = " skew_ratio
+noi display "For `var2' = " `i' " and `var3' = " `j' ": N = " n "; skewness = " %7.3f skew "; seskew = " %7.3f seskew " ; skewness ratio = " %7.3f skew_ratio
 }
 }
 }
