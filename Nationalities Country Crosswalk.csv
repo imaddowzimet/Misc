@@ -8,7 +8,7 @@ Armenia,Armenian
 Australia,Australian
 Austria,Austrian
 Azerbaijan,Azerbaijani
-Bahamas,Bahamian
+"Bahamas, The",Bahamian
 Bahrain,Bahraini
 Bangladesh,Bangladeshi
 Barbados,Barbadian
@@ -18,13 +18,13 @@ Belize,Belizean
 Benin,Beninese
 Bhutan,Bhutanese
 Bolivia,Bolivian
-Bosnia-Herzegovina,Bosnian
+Bosnia and Herzegovina,Bosnian
 Botswana,Botswanan
 Brazil,Brazilian
-Britain,British
+United Kingdom,British
 Brunei,Bruneian
 Bulgaria,Bulgarian
-Burkina,Burkinese
+Burkina Faso,Burkinese
 Myanmar,Burmese
 Burundi,Burundian
 Cambodia,Cambodian
@@ -35,7 +35,7 @@ Chad,Chadian
 Chile,Chilean
 China,Chinese
 Colombia,Colombian
-Congo,Congolese
+"Congo, Dem. Rep.",Congolese
 Costa Rica,Costa Rican
 Croatia,Croatian
 Cuba,Cuban
@@ -43,12 +43,11 @@ Cyprus,Cypriot
 Czech Republic,Czech
 Denmark,Danish
 Djibouti,Djiboutian
-Dominica,Dominican
 Dominican Republic,Dominican
 Ecuador,Ecuadorean
-Egypt,Egyptian
+"Egypt, Arab Rep.",Egyptian
 El Salvador,Salvadorean
-England,English
+United Kingdom,English
 Eritrea,Eritrean
 Estonia,Estonian
 Ethiopia,Ethiopian
@@ -56,7 +55,7 @@ Fiji,Fijian
 Finland,Finnish
 France,French
 Gabon,Gabonese
-"Gambia, the",Gambian
+"Gambia, The",Gambian
 Georgia,Georgian
 Germany,German
 Ghana,Ghanaian
@@ -66,15 +65,14 @@ Guatemala,Guatemalan
 Guinea,Guinean
 Guyana,Guyanese
 Haiti,Haitian
-Holland ,Dutch
 Honduras,Honduran
 Hungary,Hungarian
 Iceland,Icelandic
 India,Indian
 Indonesia,Indonesian
-Iran,Iranian
+"Iran, Islamic Rep.",Iranian
 Iraq,Iraqi
-"Ireland, Republic of",Irish
+Ireland,Irish
 Italy,Italian
 Jamaica,Jamaican
 Japan,Japanese
@@ -82,13 +80,13 @@ Jordan,Jordanian
 Kazakhstan,Kazakh
 Kenya,Kenyan
 Kuwait,Kuwaiti
-Laos,Laotian
+Lao PDR,Laotian
 Latvia,Latvian
 Lebanon,Lebanese
 Liberia,Liberian
 Libya,Libyan
 Lithuania,Lithuanian
-Macedonia,Macedonian
+"Macedonia, FYR",Macedonian
 Madagascar,Malagasy
 Malawi,Malawian
 Malaysia,Malaysian
@@ -106,11 +104,11 @@ Morocco,Moroccan
 Mozambique,Mozambican
 Namibia,Namibian
 Nepal,Nepalese
-"Netherlands, the (seeHolland)",Dutch
+Netherlands,Dutch
 Nicaragua,Nicaraguan
 Niger,Nigerien
 Nigeria,Nigerian
-North Korea,North Korean
+"Korea, Dem. Rep.",North Korean
 Norway,Norwegian
 Oman,Omani
 Pakistan,Pakistani
@@ -118,25 +116,25 @@ Panama,Panamanian
 Papua New Guinea,Papua New Guinean
 Paraguay,Paraguayan
 Peru,Peruvian
-the Philippines,Philippine
+Philippines,Philippine
 Poland,Polish
 Portugal,Portuguese
 Qatar,Qatari
 Romania,Romanian
-Russia,Russian
+Russian Federation,Russian
 Rwanda,Rwandan
 Saudi Arabia,Saudi Arabian
-Scotland,Scottish
+United Kingdom,Scottish
 Senegal,Senegalese
 Serbia,Serbian
 "Seychelles, the",Seychellois
 Sierra Leone,Sierra Leonian
 Singapore,Singaporean
-Slovakia,Slovak
+Slovak Republic,Slovak
 Slovenia,Slovenian
 Somalia,Somali
 South Africa,South African
-South Korea,South Korean
+"Korea, Rep.",South Korean
 Spain,Spanish
 Sri Lanka,Sri Lankan
 Sudan,Sudanese
@@ -144,7 +142,7 @@ Suriname,Surinamese
 Swaziland,Swazi
 Sweden,Swedish
 Switzerland,Swiss
-Syria,Syrian
+Syrian Arab Republic,Syrian
 Taiwan,Taiwanese
 Tajikistan,Tajik
 Tanzania,Tanzanian
@@ -160,12 +158,12 @@ United States of America,American
 Uruguay,Uruguayan
 Uzbekistan,Uzbek
 Vanuatu,Vanuatuan
-Venezuela,Venezuelan
+"Venezuela, RB",Venezuelan
 Vietnam,Vietnamese
-Wales,Welsh
+United Kingdom,Welsh
 Western Samoa,Western Samoan
-Yemen,Yemeni
+"Yemen, Rep.",Yemeni
 Yugoslavia,Yugoslav
-Zaire,Zairean
+"Congo, Dem. Rep.",Zairean
 Zambia,Zambian
 Zimbabwe,Zimbabwean
