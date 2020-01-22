@@ -18,4 +18,20 @@
   border: 1px solid #ddd; /* Add a grey border */
   margin-bottom: 12px; /* Add some space below the input */
   margin-top: 12px;
+  font-style: italic;
+}
+h2 {
+  font-size: 150%;
+}
+h1 {
+  color: black;
+  font-size: 150%;
+}
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+.description {
+  font-style: italic;
 }
