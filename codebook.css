@@ -14,14 +14,15 @@
 #myInput {
   width: 50%; /* Half-width */
   font-size: 16px; /* Increase font-size */
-  padding: 12px 20px 12px 40px; /* Add some padding */
-  border: 1px solid #ddd; /* Add a grey border */
-  margin-bottom: 12px; /* Add some space below the input */
+  padding: 6px 20px 6px 40px; /* Add some padding */
+  border: 1px solid #000000; /* Add a black border */
+  margin-bottom: 8px; /* Add some space below the input */
   margin-top: 12px;
   font-style: italic;
 }
 h2 {
-  font-size: 150%;
+  color: black;
+  font-size: 125%;
 }
 h1 {
   color: black;
