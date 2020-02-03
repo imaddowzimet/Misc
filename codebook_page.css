@@ -34,3 +34,12 @@ table tbody:last-child tr:last-child td {border-bottom:1px solid black;  clear:b
 p {
   clear: both;
 }
+hr {
+    display: block;
+    height: 15px;
+    border: 0;
+    border-bottom: 3px dashed #050505;
+    margin: 0 0;
+    padding: 0;
+    clear: both;
+}
