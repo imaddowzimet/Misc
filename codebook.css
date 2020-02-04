@@ -3,7 +3,7 @@ body, table {font-family: Helvetica, Arial, Sans-serif; font-size: 20px;}
 h1, h2, h3, h4 {font-weight: normal; color: #3366cc}
 h1 {font-size: 200%;}
 h2 {font-size: 150%;}
-h3 {font-size: 120%;}
+h3 {font-size: 115%; color: black}
 h4 {font-size: 100%; font-weight:bold}
 img {float:left; clear:left; margin-top:15px; margin-left:auto; margin-right:auto}
 .small{font-size:8pt;}
