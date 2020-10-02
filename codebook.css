@@ -65,9 +65,9 @@ h1 {
 }
 .header {
   overflow: hidden;
-  background-color: #bdc2c9;
+  background-color: #d3d6db;
   padding: 20px 10px;
-  outline: 4px solid black;
+  outline: 3px solid black;
 }
 .description {
   font-style: italic;
